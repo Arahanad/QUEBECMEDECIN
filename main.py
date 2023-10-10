@@ -205,4 +205,4 @@ class quebecmedecin:
 if __name__ == "__main__":
     obj = quebecmedecin()
     obj.scrapy()
-    # obj.Scrap_data('https://www.quebecmedecin.com/medecin/medecin-chaput-miguel-3872.htm')
+    # obj.Scrap_data('https://www.quebecmedecin.com/medecin/medecin-chaput-miguel-3872.htm',1)
